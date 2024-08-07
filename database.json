@@ -1,0 +1,11 @@
+{ 
+    "naggets": [
+        {"id": 1, "taste": "yummy"}
+    ],
+    "apple pie": [
+        { "id": 2, "taste": "very yummy"}
+    ],
+    "pancakes with strawbery jam": [
+        { "id": 3, "taste": "Oh My God. What is that?!"}
+    ]
+}
